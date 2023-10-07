@@ -21,7 +21,7 @@
         <label class="w3-text-teal"><b>Formação</b></label>
         <input class="w3-input w3-border w3-light-grey" name="txtFormacao" type="text" style="width: 500px" autocomplete="off">
         <label class="w3-text-teal"><b>Descrição Último Emprego</b></label>
-        <textarea class="w3-input w3-border w3-light-grey" style="width: 500px"></textarea><br>
+        <textarea class="w3-input w3-border w3-light-grey" name="txtEmprego" style="width: 500px"></textarea><br>
         <button class="w3-btn w3-blue-grey">Enviar</button>
     </form>
 </body>
