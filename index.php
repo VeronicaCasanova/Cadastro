@@ -13,13 +13,13 @@
     </div> 
     <form class="w3-container" method="post" action="AtividadeOnlineAction.php">
         <label class="w3-text-teal"><b>Nome</b></label>
-        <input class="w3-input w3-border w3-light-grey" name="txtNome" type="text" style="width: 500px" autocomplete="none">
+        <input class="w3-input w3-border w3-light-grey" name="txtNome" type="text" style="width: 500px" autocomplete="off">
         <label class="w3-text-teal"><b>Sobrenome</b></label>
-        <input class="w3-input w3-border w3-light-grey" name="txtSobrenome" type="text" style="width: 500px" autocomplete="none">
+        <input class="w3-input w3-border w3-light-grey" name="txtSobrenome" type="text" style="width: 500px" autocomplete="off">
         <label class="w3-text-teal"><b>Email</b></label>
-        <input class="w3-input w3-border w3-light-grey" name="txtEmail" type="text" style="width: 500px" autocomplete="none">
+        <input class="w3-input w3-border w3-light-grey" name="txtEmail" type="text" style="width: 500px" autocomplete="off">
         <label class="w3-text-teal"><b>Formação</b></label>
-        <input class="w3-input w3-border w3-light-grey" name="txtFormacao" type="text" style="width: 500px" autocomplete="none">
+        <input class="w3-input w3-border w3-light-grey" name="txtFormacao" type="text" style="width: 500px" autocomplete="off">
         <label class="w3-text-teal"><b>Descrição Último Emprego</b></label>
         <textarea class="w3-input w3-border w3-light-grey" style="width: 500px"></textarea><br>
         <button class="w3-btn w3-blue-grey">Enviar</button>
